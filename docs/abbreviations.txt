@@ -1,0 +1,16 @@
+USD - United States Dollar - United States of America
+EUR - European Currency - Germany
+INR - Indian Rupee - India
+GBP - Great British Pound - United Kingdom
+CAD - Canadian Dollar - Canada
+CNY - Chinese Yuan - China
+IDR - Indonesian Rupiah - Indonesia
+MYR - Malaysian Ringgit - Malaysia
+SGD - Singapore Dollar - Singapore
+AUD - Australian Dollar - Australia
+
+****************************** LINKS FOR SCRAPING DATA ******************************
+http://www.worldometers.info/world-population/india-population/		// POPULATION
+
+https://data.worldbank.org/		//	more data items
+*************************************************************************************
